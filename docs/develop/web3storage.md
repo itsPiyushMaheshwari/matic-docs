@@ -1,6 +1,6 @@
 ---
 id: web3.storage
-title: Web3.storage on Polygon 
+title: Web3.Storage Forum dApp example 
 description: Web3.Storage Forum dApp example
 keywords:
   - nft.storage
