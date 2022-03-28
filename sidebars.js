@@ -202,7 +202,8 @@ module.exports = {
       items: [
         "develop/ipfs",
         "develop/filecoinhelpers",
-        "develop/nftstorage",
+        "develop/nft.storage",
+        "develop/web3.storage"
 
       ],
     },
